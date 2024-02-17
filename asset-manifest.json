@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pmdrtimer/static/css/main.3ff8c730.css",
+    "main.css": "/pmdrtimer/static/css/main.81e89b7e.css",
     "main.js": "/pmdrtimer/static/js/main.f8f223c1.js",
     "static/js/453.0abe6ebb.chunk.js": "/pmdrtimer/static/js/453.0abe6ebb.chunk.js",
     "static/media/chocobo_wark.mp3": "/pmdrtimer/static/media/chocobo_wark.c8b867332ba88eac2817.mp3",
     "index.html": "/pmdrtimer/index.html",
-    "main.3ff8c730.css.map": "/pmdrtimer/static/css/main.3ff8c730.css.map",
+    "main.81e89b7e.css.map": "/pmdrtimer/static/css/main.81e89b7e.css.map",
     "main.f8f223c1.js.map": "/pmdrtimer/static/js/main.f8f223c1.js.map",
     "453.0abe6ebb.chunk.js.map": "/pmdrtimer/static/js/453.0abe6ebb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ff8c730.css",
+    "static/css/main.81e89b7e.css",
     "static/js/main.f8f223c1.js"
   ]
 }
