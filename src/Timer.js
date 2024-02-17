@@ -5,7 +5,8 @@ import PauseButton from './PauseButton';
 import SettingsButton from './SettingsButton';
 import {useContext, useState, useEffect, useRef} from 'react';
 import SettingsContext from './SettingsContext';
-import sound from "./assets/chocobo_wark.mp3"
+import sound from "./assets/chocobo_wark.mp3";
+
 
 const red = '#f54e4e';
 const green = '#4aec8c';
